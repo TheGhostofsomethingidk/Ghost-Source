@@ -1,2 +1,2 @@
 # Ghost-Source
-Just messing around with AI and seeing how well it can recreate the Source engine
+This is AI SLOP, keep that in mind, but yeah I'm trying to recreate the Source Engine with AI
